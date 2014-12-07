@@ -1,0 +1,24 @@
+.fl{display:inline-block;zoom:1;*display:inline;vertical-align: top;}
+
+.page_module .bd {
+width: 668px;
+height: 230px;
+background: #cecece;
+border-radius: 15px;
+margin: 0 auto;
+
+}
+.page_module .bd .left,
+.page_module .bd .right{
+width:300px;
+margin:15px;
+background:#999;
+border-radius: 15px;
+height:200px;
+line-height: 100px;
+text-align: center;
+color:#ff0;
+}
+.page_module .bd .right{
+
+}
